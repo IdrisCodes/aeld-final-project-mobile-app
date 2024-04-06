@@ -5,7 +5,7 @@ Window {
     width: Screen.width
     height: Screen.height
     visible: true
-    title: qsTr("Hello World")
+    title: qsTr("Open Sesame")
 
     RoundButton{
         id: connectToHostBtn
